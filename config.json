@@ -1,0 +1,9 @@
+{
+  "server": "tardis.team",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "max-favourites": 40,
+  "max-followings": 80,
+  "max-followers": 80,
+  "from-notifications": 1
+}
